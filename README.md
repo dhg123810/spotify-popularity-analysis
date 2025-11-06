@@ -53,6 +53,7 @@ Predicted_Popularity =
     ((1 - AVERAGE(Spotify_Data[instrumentalness])) * 0.15) +
     (DIVIDE(AVERAGE(Spotify_Data[loudness]) + 60, 60) * 0.10)
 ) * 100
+```
 
 ## Dashboard Pages
 | Page | Focus | Key Visuals |
