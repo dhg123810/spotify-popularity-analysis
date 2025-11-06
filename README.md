@@ -76,11 +76,11 @@ Predicted_Popularity =
 ---
 
 ## Live Interactive Dashboard
-🎧 [View on Power BI Service](https://app.powerbi.com/links/l-GXaNZ88R?ctid=613b1889-1095-493a-8817-7c8b9cbf814a&pbi_source=linkShare)
+[View on Power BI Service](https://app.powerbi.com/links/l-GXaNZ88R?ctid=613b1889-1095-493a-8817-7c8b9cbf814a&pbi_source=linkShare)
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 - **Microsoft Excel** — Data cleaning and pre-processing  
 - **Power BI Desktop** — Modeling, DAX, and visualization  
 - **Power BI Service** — Publishing and sharing  
